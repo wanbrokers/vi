@@ -1,2 +1,2 @@
-# vi
-Gambling
+# WanBrokers
+Wan's Gambling Diary
